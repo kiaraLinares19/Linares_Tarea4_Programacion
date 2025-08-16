@@ -94,3 +94,4 @@ C:\Users\kiara\OneDrive\Escritorio\Linares_Tarea4\obj\Debug\net9.0\refint\Linare
 C:\Users\kiara\OneDrive\Escritorio\Linares_Tarea4\obj\Debug\net9.0\Linares_Tarea4.pdb
 C:\Users\kiara\OneDrive\Escritorio\Linares_Tarea4\obj\Debug\net9.0\Linares_Tarea4.genruntimeconfig.cache
 C:\Users\kiara\OneDrive\Escritorio\Linares_Tarea4\obj\Debug\net9.0\ref\Linares_Tarea4.dll
+C:\Users\kiara\OneDrive\Escritorio\Linares_Tarea4\obj\Debug\net9.0\Linares_Tarea4.sourcelink.json
